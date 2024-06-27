@@ -45,6 +45,7 @@ class Search:
         return response_formatted
 
 
+
 # results = Search().get_search_results()
 # print(results)
 
